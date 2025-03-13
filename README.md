@@ -21,7 +21,7 @@ However, MoA prediction presents challenges such as **high-dimensional data**, *
 ---
 
 ## **Aim**
-The goal of this project is to **develop machine learning models** capable of accurately predicting the **mechanism of action (MoA) of compounds** based on their biological response data. This will help identify drug targets, accelerate drug discovery, and improve precision medicine approaches.
+The goal of this project is to **develop deep learning models** capable of accurately predicting the **mechanism of action (MoA) of compounds** based on their biological response data. This will help identify drug targets, accelerate drug discovery, and improve precision medicine approaches.
 
 ---
 
